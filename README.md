@@ -2,7 +2,7 @@
 
 ## Simple JS Bar Chart with Plotly.js
 
-```
+``` HTML
 <!DOCTYPE html>
 <html>
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
