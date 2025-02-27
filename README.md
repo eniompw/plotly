@@ -2,6 +2,9 @@
 
 ## Simple JS Bar Chart with Plotly.js
 
+![image](https://github.com/user-attachments/assets/22ee957f-8195-4d42-a9cc-5b414365f974)
+
+
 ``` HTML
 <!DOCTYPE html>
 <html>
